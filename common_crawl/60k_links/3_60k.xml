@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sitemapindex
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+
+<sitemap>
+	<loc>sitemap_4345208_1.xml</loc>
+	<lastmod>2022-12-15T03:10:40+00:00</lastmod>
+</sitemap>
+<sitemap>
+	<loc>sitemap_4345208_2.xml</loc>
+	<lastmod>2022-12-15T03:10:40+00:00</lastmod>
+</sitemap>
+</sitemapindex>

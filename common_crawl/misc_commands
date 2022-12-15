@@ -1,0 +1,30 @@
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030334942.88/warc/CC-MAIN-20220926211042-20220927001042-00381.warc.gz ./
+
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030334942.88/crawldiagnostics/CC-MAIN-20220926211042-20220927001042-00114.warc.gz ./
+
+
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030335504.37/warc/CC-MAIN-20220930212504-20221001002504-00381.warc.gz ./
+
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030337595.1/warc/CC-MAIN-20221005073953-20221005103953-00381.warc.gz ./
+
+
+
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030337836.93/crawldiagnostics/CC-MAIN-20221006124156-20221006154156-00753.warc.gz ./
+
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030337836.93/crawldiagnostics/CC-MAIN-20221006124156-20221006154156-00230.warc.gz ./
+
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030337836.93/crawldiagnostics/CC-MAIN-20221006124156-20221006154156-00114.warc.gz ./
+
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030337836.93/warc/CC-MAIN-20221006124156-20221006154156-00381.warc.gz ./
+
+
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030337595.1/warc/CC-MAIN-20221005073953-20221005103953-00381.warc.gz ./
+
+
+
+
+
+
+aws s3 cp s3://commoncrawl/crawl-data/CC-MAIN-2022-40/segments/1664030338244.64/warc/CC-MAIN-20221007175237-20221007205237-00381.warc.gz ./
+
+
